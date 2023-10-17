@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.answers{
+    display: block;
+    width:100%;
+    height: 50px;
+    font-size: 3rem;
+    background-color: #f2f2;
+}
+td{
+    width:100px;
+    height: 100px;  
+}
+button{
+    flex:1;
+    width:100%;
+    height: 100%;
+    background-color: #2a2a2a;
+    color:white;
+    font-size: 50px;
+    cursor: pointer;
+}
+.number{
+    background-color: black;
+    color:white;
+}
+.blue{
+    color:blue;
+}
+#equal{
+    background-color: blue;
+    font-weight: 100; 
+}
+.equal{
+    height: 2px;
+}
